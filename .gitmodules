@@ -5,3 +5,6 @@
 [submodule "scholid"]
 	path = scholid
 	url = https://github.com/thomas-rauter/scholid
+[submodule "scholidonline"]
+	path = scholidonline
+	url = https://github.com/thomas-rauter/scholidonline
